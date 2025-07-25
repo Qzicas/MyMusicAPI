@@ -1,0 +1,18 @@
+{
+  "songs": [
+    {
+      "name": "Song Name 1",
+      "artist": "Artist Name 1",
+      "category": "bollywood",
+      "path": "https://link-to-your-song1.mp3",
+      "cover": "https://link-to-your-album-art1.jpg"
+    },
+    {
+      "name": "Song Name 2",
+      "artist": "Artist Name 2",
+      "category": "global",
+      "path": "https://link-to-your-song2.mp3",
+      "cover": "https://link-to-your-album-art2.jpg"
+    }
+  ]
+}
